@@ -44,6 +44,12 @@ When enabled, the `BAL` button will be replaced with a `UT` button.
 
 3. The script will automatically activate when you are on BustaBit.com/play page.
 
-## 🛠 Development
+## 🍆 Tip Me, Daddy
 
-Send [@phpfuck](https://bustabit.com/user/phpfuck) a tip if you find it usedful <3
+If RedBot UI made your bot hotter, faster, or just less ugly...
+
+**Slide into my wallet** and send a little love 💦  
+👉 [**@phpfuck on Bustabit**](https://bustabit.com/user/phpfuck)
+
+Your sats help keep this script thicc, slick, and fully equipped. 💋
+
