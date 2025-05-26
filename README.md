@@ -6,14 +6,14 @@
 
 ## 🚀 Features
 
-- Clean UI for chat bot RedBot
-- Stop typing your bets and use a UI
-- Bet History tab to track your bets
-- Optional **UT Mode** for betting with the `UT` command
+- Clean UI makes placing bets **easy**
+- Stop wasting time *typing* your bets
+- Bet History tab to track betting performance
+- Optional **UT Mode** for betting with the `$UT` command
 
 ## ⚙️ Optional: Enable UT Mode
 
-The script includes an optional configuration flag for users who prefer to use the `UT` command for betting instead of just checking their balance.
+There is an optional configuration flag for users who prefer to use the `$UT` command for betting.
 
 To enable **UT Mode**:
 
@@ -21,13 +21,13 @@ To enable **UT Mode**:
 2. Find and edit the `RedBot UI for Bustabit` script.
 3. Locate this line at the top:
    ```js
-   const ENABLEUT = false;
+   const ENABLEUT = false,
    ```
 
 4. Change it to:
 
    ```js
-   const ENABLEUT = true;
+   const ENABLEUT = true,
    ```
 5. Save the script.
 
@@ -48,8 +48,8 @@ When enabled, the `BAL` button will be replaced with a `UT` button.
 
 If RedBot UI made your bot hotter, faster, or just less ugly...
 
-**Slide into my wallet** and send a little love 💦  
+**Slide into me** and send a little love 💦  
 👉 [**@phpfuck on Bustabit**](https://bustabit.com/user/phpfuck)
 
-Your sats help keep this script thicc, slick, and fully equipped. 💋
+Your bits help keep this script thicc, slick, and fully equipped. 💋
 
